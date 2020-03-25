@@ -9,7 +9,7 @@ export PATH
 alias curl='curl -m 10'
 
 # user info: change them to yours or use parameters instead.
-username="18575595974"
+username="$1"
 password="$2"
 
 # UA and deviceId: if you failed to login , maybe you need to change it to your IMEI.
